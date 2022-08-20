@@ -1,0 +1,31 @@
+{
+  "name": "nodeplus_like",
+  "version": "1.0.0",
+  "description": "항해99야자반_2주차/추가기능 구현",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJooonji/nodeplus_like.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJooonji/nodeplus_like/issues"
+  },
+  "homepage": "https://github.com/JJooonji/nodeplus_like#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.21.4"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.4.1"
+  }
+}
